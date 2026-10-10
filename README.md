@@ -67,7 +67,7 @@ I'm currently working on developing my first projects. As I complete them, I'll 
 
 ## 🤝 Connect With Me
 
-- **GitHub:** Lizalise Hlangani
+- **GitHub:** Liza-lise
 - **LinkedIn:** www.linkedin.com/in/lizalise-hlangani-87b4a82a8.
 
 
