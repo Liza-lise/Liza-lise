@@ -1,4 +1,4 @@
-# Lizalise-Hlangani
+
 # Hi, I'm Lizalise Hlangani 👋
 
 ### ICT | Networking | IT Support | Application Development
@@ -60,7 +60,7 @@ I'm currently working on developing my first projects. As I complete them, I'll 
 
 ## 🤝 Connect With Me
 
-- **GitHub:** 
+- **GitHub:** Lizalise Hlangani
 - **LinkedIn:** www.linkedin.com/in/lizalise-hlangani-87b4a82a8.
 
 
