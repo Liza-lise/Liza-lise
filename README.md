@@ -1,7 +1,17 @@
 
 # Hi, I'm Lizalise Hlangani 👋
-<img src="./profile.jpg" alt="My profile photo" width="180">
-### ICT | Networking | IT Support | Application Development
+
+<p align="center">
+  <img src="./profile.jpg" alt="Photo of Lizalise Hlangani" width="180">
+</p>
+
+<h1 align="center">Hi, I'm Lizalise Hlangani 👋</h1>
+
+<p align="center">
+  ICT | Networking | IT Support | Application Development
+</p>
+
+ ICT | Networking | IT Support | Application Development
 
 I'm building my journey in Information and Communication Technology, with a growing interest in computer networking, IT support and application development.
 
