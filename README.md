@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="./profile.jpg" alt="Photo of Lizalise Hlangani" width="180">
-</p>
-
 <h1 align="center">Hi, I'm Lizalise Hlangani 👋</h1>
 
 <p align="center">
