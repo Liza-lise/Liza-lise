@@ -1,71 +1,78 @@
+# Hi, I'm Lizalise Hlangani 👋
 
+### ICT Professional | Application Developer | Software Engineer
 
-<h1 align="center">Hi, I'm Lizalise Hlangani 👋</h1>
+I'm an ICT professional based in Durban, South Africa, with a Diploma in Information and Communication Technology, specialising in Application Development.
 
-<p align="center">
-  ICT | Networking | IT Support | Application Development
-</p>
-
-I'm building my journey in Information and Communication Technology, with a growing interest in computer networking, IT support and application development.
-
-I enjoy understanding how technology works, solving technical problems and developing practical solutions. I'm using GitHub to document what I learn, practise my skills and share my progress.
+I enjoy building software solutions, solving technical problems and exploring how technology can improve everyday processes. My interests span software development, databases, systems and IT infrastructure.
 
 ## 👨‍💻 About Me
 
-- 🎓 Background in Information and Communication Technology at Durban University of Technology (DUT).
-- 🖧 Interested in computer networking, network configuration and troubleshooting.
-- 🛠️ Exploring IT support and systems administration.
-- 💻 Developing my programming and web development skills.
-- 📚 Committed to continuous learning and hands-on practice.
+- 🎓 Diploma in Information and Communication Technology – Application Development.
+- 💻 Interested in backend and full-stack software development.
+- 🌐 Experienced in developing web applications using ASP.NET Core MVC.
+- 🗄️ Interested in database design, SQL and data management.
+- 🔧 Knowledge of networking fundamentals and IT support.
+- 📚 Committed to continuous learning and professional development.
 
-## 🧰 Technologies & Skills
+## 🛠️ Technical Skills
 
-**Programming and Web Development**
+**Programming & Web Development**
 - C#
-- Java
+- ASP.NET Core MVC
+- HTML5
+- CSS3
 - JavaScript
-- HTML and CSS
-- Razor
 
-**Databases and Other Technologies**
+**Databases**
 - SQL
-- Microsoft Azure fundamentals
+- Microsoft SQL Server
+- Entity Framework Core
 
-**Networking and IT**
+**Networking & IT**
+- Networking Fundamentals
 - Cisco Packet Tracer
-- Networking fundamentals
-- Network devices and initial configuration
-- Linux fundamentals
-- Cybersecurity fundamentals
+- Network Configuration
+- IT Support Fundamentals
 
-## 📜 Learning & Certifications
+**Development Tools**
+- Visual Studio 2022
+- Visual Studio Code
+- Git & GitHub
 
-I'm developing my technical knowledge through online learning, practical exercises and networking courses.
+## 🚀 Featured Projects
 
-Topics I've explored include:
-- Network Basics
-- Networking Devices and Initial Configuration
-- Introduction to Cybersecurity
-- Linux fundamentals
-- Internet of Things (IoT) and Digital Transformation
+### Student Marks Management System
+An ASP.NET Core MVC application for managing student assessments, calculating final marks and determining academic results.
 
-## 🚀 My Goals
+**Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
 
-- Build practical networking and IT support projects.
-- Improve my programming and troubleshooting abilities.
-- Gain hands-on experience with systems and networks.
-- Document my learning and technical progress.
-- Develop a portfolio that demonstrates my skills through real work.
+### JokeHub
+An ASP.NET Core MVC web application featuring user authentication and joke management functionality.
 
-## 📂 Projects
+**Technologies:** C#, ASP.NET Core MVC, ASP.NET Core Identity, Entity Framework Core.
 
-I'm currently working on developing my first projects. As I complete them, I'll add links and documentation here to show what I've built, the technologies I've used and what I've learned.
+## 📖 Currently Learning
+
+- Advanced SQL
+- RESTful API development
+- Backend development
+- Software architecture
+- Data Science and Business Intelligence
+
+## 🎯 Career Interests
+
+- Software Development
+- Backend Development
+- Application Development
+- Database Development
+- IT Support and Systems
 
 ## 🤝 Connect With Me
 
-- **GitHub:** Liza-lise
-- **LinkedIn:** www.linkedin.com/in/lizalise-hlangani-87b4a82a8.
+- GitHub: [@Liza-lise](https://github.com/Liza-lise)
+- LinkedIn: [Add your LinkedIn profile URL]
 
+---
 
-
-*Learning continuously. Building practically. Growing through technology.
+*Building practical solutions through technology, one project at a time.* 🇿🇦
