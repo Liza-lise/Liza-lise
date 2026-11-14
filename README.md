@@ -1,4 +1,4 @@
-# Hi, I'm Lizalise Hlangani 👋
+# Hi, I'm Lizalise Hlangani 
 
 ### ICT Professional | Application Developer | Software Engineer
 
@@ -71,7 +71,7 @@ An ASP.NET Core MVC web application featuring user authentication and joke manag
 ## 🤝 Connect With Me
 
 - GitHub: [@Liza-lise](https://github.com/Liza-lise)
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: [https://www.linkedin.com/in/lizalise-hlangani-87b4a82a8   ]
 
 ---
 
